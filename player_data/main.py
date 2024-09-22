@@ -31,7 +31,7 @@ def main():
     game_dates = load_game_dates(year)
 
     # Determine the target date (e.g., yesterday)
-    target_date = datetime.now() - timedelta(days=1).date()
+    target_date = (datetime.now() - timedelta(days=1)).date()
 
     # Check if the target date is in the list of game dates
     if target_date in game_dates:
