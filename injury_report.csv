@@ -1,0 +1,476 @@
+Team,Injured,Player,Position,games_this_week,proj_fantasy_pts
+Minnesota Wild,False,Kirill Kaprizov,F,3.0,5.37734482945872
+Colorado Avalanche,False,Nathan MacKinnon,F,3.0,4.767330893554432
+Toronto Maple Leafs,False,Auston Matthews,F,3.0,4.838678669169701
+New York Rangers,False,Artemi Panarin,F,3.0,5.028838894760682
+Detroit Red Wings,True,Dylan Larkin,F,3.0,0.0
+Vegas Golden Knights,False,Jack Eichel,F,3.0,6.25
+Boston Bruins,False,David Pastrnak,F,4.0,4.858420268256333
+New Jersey Devils,True,Jack Hughes,F,3.0,0.0
+New York Rangers,False,Mika Zibanejad,F,3.0,4.03955911218481
+Calgary Flames,False,Nazem Kadri,F,3.0,4.001011844533062
+Colorado Avalanche,False,Mikko Rantanen,F,3.0,3.7677292545833403
+Detroit Red Wings,False,Alex DeBrincat,F,3.0,3.109950450235838
+Florida Panthers,False,Sam Reinhart,F,4.0,4.330827067669173
+Ottawa Senators,False,Brady Tkachuk,F,3.0,3.8345336346602203
+Nashville Predators,False,Filip Forsberg,F,2.0,2.2284287189947567
+Minnesota Wild,False,Matt Boldy,F,3.0,3.7430537538389133
+Washington Capitals,False,Alex Ovechkin,F,1.0,1.2753036437246963
+New York Islanders,False,Kyle Palmieri,F,3.0,2.829754601226994
+St. Louis Blues,False,Jordan Kyrou,F,3.0,3.586956521739131
+Nashville Predators,False,Steven Stamkos,F,2.0,2.065769688411198
+Edmonton Oilers,False,Zach Hyman,F,3.0,3.6133603238866394
+Montreal Canadiens,False,Cole Caufield,F,4.0,4.140126853446465
+New York Islanders,False,Mathew Barzal,F,3.0,3.1978527607361964
+Buffalo Sabres,False,JJ Peterka,F,2.0,2.011922503725782
+Edmonton Oilers,False,Connor McDavid,F,3.0,4.251012145748987
+Anaheim Ducks,False,Frank Vatrano,F,2.0,1.923076923076923
+Florida Panthers,False,Matthew Tkachuk,F,4.0,4.030075187969924
+Carolina Hurricanes,False,Jake Guentzel,F,2.0,1.9732441471571907
+Tampa Bay Lightning,False,Nikita Kucherov,F,2.0,2.1713441654357455
+Edmonton Oilers,False,Viktor Arvidsson,F,3.0,3.4311740890688265
+Philadelphia Flyers,False,Owen Tippett,F,2.0,2.08502024291498
+Seattle Kraken,False,Jared McCann,F,3.0,2.6922300784675923
+New Jersey Devils,True,Timo Meier,F,3.0,0.0
+Pittsburgh Penguins,False,Bryan Rust,F,4.0,4.42637164566403
+Toronto Maple Leafs,False,William Nylander,F,3.0,3.5269886684911675
+Winnipeg Jets,False,Kyle Connor,F,3.0,3.221593952740908
+New York Rangers,False,Vincent Trocheck,F,3.0,3.2426392873320244
+New Jersey Devils,False,Jesper Bratt,F,3.0,3.243243243243243
+Buffalo Sabres,False,Alex Tuch,F,2.0,1.758569299552906
+Calgary Flames,False,Blake Coleman,F,3.0,2.520117850127968
+Philadelphia Flyers,False,Travis Konecny,F,2.0,2.2672064777327936
+New York Rangers,False,Alexis Lafrenière,F,3.0,2.80295938396497
+Ottawa Senators,False,Drake Batherson,F,3.0,3.3766788723127314
+Dallas Stars,False,Wyatt Johnston,F,3.0,2.8703380968978736
+Dallas Stars,False,Jason Robertson,F,3.0,2.8427386921200095
+Buffalo Sabres,True,Tage Thompson,F,2.0,0.0
+Carolina Hurricanes,False,Sebastian Aho,F,2.0,2.2073578595317724
+Florida Panthers,False,Carter Verhaeghe,F,4.0,3.3684210526315788
+Minnesota Wild,False,Mats Zuccarello,F,3.0,3.189503550806398
+Tampa Bay Lightning,False,Brayden Point,F,2.0,1.6395864106351548
+,False,Dylan Guenther,F,,
+Winnipeg Jets,False,Nikolaj Ehlers,F,3.0,2.390214868162609
+Florida Panthers,False,Aleksander Barkov,F,4.0,3.2781954887218046
+Chicago Blackhawks,False,Connor Bedard,F,3.0,2.933753943217666
+Pittsburgh Penguins,False,Sidney Crosby,F,4.0,4.174464316235996
+Nashville Predators,False,Luke Evangelista,F,2.0,1.480197178310386
+,False,Clayton Keller,F,,
+New Jersey Devils,False,Nico Hischier,F,3.0,2.972972972972973
+Minnesota Wild,False,Ryan Hartman,F,3.0,2.4514366134297108
+Carolina Hurricanes,False,Martin Necas,F,2.0,1.57190635451505
+Anaheim Ducks,False,Alex Killorn,F,2.0,1.8227424749163879
+Detroit Red Wings,False,Patrick Kane,F,3.0,2.599361570346372
+St. Louis Blues,False,Pavel Buchnevich,F,3.0,2.9347826086956523
+Carolina Hurricanes,False,Seth Jarvis,F,2.0,1.7391304347826086
+Vancouver Canucks,False,Conor Garland,F,2.0,1.7735849056603772
+Vancouver Canucks,False,J.T. Miller,F,2.0,1.8867924528301885
+Toronto Maple Leafs,False,John Tavares,F,3.0,2.7691233347657924
+Minnesota Wild,False,Joel Eriksson Ek,F,3.0,2.8468296155957935
+San Jose Sharks,False,Fabian Zetterlund,F,2.0,2.944444444444444
+Detroit Red Wings,False,Lucas Raymond,F,3.0,2.390484301300681
+Nashville Predators,False,Jonathan Marchessault,F,2.0,1.5615266936021652
+Colorado Avalanche,False,Jonathan Drouin,F,3.0,2.9475432944019335
+New York Islanders,False,Bo Horvat,F,3.0,2.3466257668711656
+Columbus Blue Jackets,False,Kirill Marchenko,F,2.0,1.4110429447852761
+Winnipeg Jets,False,Tyler Toffoli,F,3.0,2.234331289804178
+Montreal Canadiens,False,Juraj Slafkovsky,F,4.0,3.264978087677293
+Edmonton Oilers,False,Ryan Nugent-Hopkins,F,3.0,2.9453441295546554
+Los Angeles Kings,False,Adrian Kempe,F,3.0,3.088235294117647
+Los Angeles Kings,False,Kevin Fiala,F,3.0,3.340336134453781
+Carolina Hurricanes,False,Andrei Svechnikov,F,2.0,1.4548494983277591
+St. Louis Blues,False,Brayden Schenn,F,3.0,2.408026755852843
+Vancouver Canucks,False,Elias Pettersson,F,2.0,1.8867924528301887
+Calgary Flames,False,Andrei Kuzmenko,F,3.0,2.416195464555681
+Calgary Flames,False,Jonathan Huberdeau,F,3.0,2.4421760609487526
+Calgary Flames,False,Yegor Sharangovich,F,3.0,2.4421760609487526
+Washington Capitals,False,Tom Wilson,F,1.0,0.8704453441295547
+Edmonton Oilers,False,Warren Foegele,F,3.0,2.3684210526315788
+St. Louis Blues,False,Robert Thomas,F,3.0,2.7842809364548495
+Anaheim Ducks,False,Troy Terry,F,2.0,1.5551839464882944
+Pittsburgh Penguins,False,Evgeni Malkin,F,4.0,3.418742327951894
+Winnipeg Jets,False,Gabriel Vilardi,F,3.0,2.390214868162609
+Edmonton Oilers,False,Leon Draisaitl,F,3.0,3.522267206477733
+Dallas Stars,False,Jamie Benn,F,3.0,2.1527535726734057
+Detroit Red Wings,False,David Perron,F,3.0,1.9031040068607368
+Seattle Kraken,False,Andre Burakovsky,F,3.0,2.0131089775928843
+St. Louis Blues,True,Jake Neighbours,F,3.0,0.0
+New York Islanders,False,Brock Nelson,F,3.0,2.2776073619631902
+New York Rangers,False,Chris Kreider,F,3.0,2.3083194926770343
+Toronto Maple Leafs,False,Tyler Bertuzzi,F,3.0,2.506785334630086
+Tampa Bay Lightning,False,Nicholas Paul,F,2.0,1.240768094534712
+Winnipeg Jets,False,Mark Scheifele,F,3.0,2.8578656032379017
+Pittsburgh Penguins,False,Drew O'Connor,F,4.0,3.1308482371769975
+Dallas Stars,False,Roope Hintz,F,3.0,2.2631511917848623
+Buffalo Sabres,False,Jordan Greenway,F,2.0,1.1177347242921014
+Los Angeles Kings,False,Trevor Moore,F,3.0,2.5840336134453783
+Edmonton Oilers,False,Dylan Holloway,F,3.0,2.0040485829959516
+Dallas Stars,False,Tyler Seguin,F,3.0,2.207952382229134
+New Jersey Devils,False,Erik Haula,F,3.0,2.243243243243243
+Pittsburgh Penguins,False,Michael Bunting,F,4.0,2.950914430442687
+Colorado Avalanche,True,Valeri Nichushkin,F,3.0,0.0
+Washington Capitals,False,Dylan Strome,F,1.0,1.0121457489878543
+Seattle Kraken,False,Shane Wright,F,3.0,1.9403460024991657
+Anaheim Ducks,False,Leo Carlsson,F,2.0,1.4381270903010033
+Philadelphia Flyers,False,Tyson Foerster,F,2.0,1.5789473684210527
+Dallas Stars,False,Mason Marchment,F,3.0,2.0423559535619487
+Ottawa Senators,False,Shane Pinto,F,3.0,2.5468171155579076
+Tampa Bay Lightning,False,Brandon Hagel,F,2.0,1.2850812407680943
+Buffalo Sabres,False,Dylan Cozens,F,2.0,1.1922503725782414
+Anaheim Ducks,False,Trevor Zegras,F,2.0,1.354515050167224
+St. Louis Blues,False,Brandon Saad,F,3.0,1.9565217391304348
+Minnesota Wild,False,Marco Rossi,F,3.0,2.2405603456078
+Columbus Blue Jackets,False,Cole Sillinger,F,2.0,1.303680981595092
+Philadelphia Flyers,False,Morgan Frost,F,2.0,1.5991902834008096
+Columbus Blue Jackets,False,Johnny Gaudreau,F,2.0,1.4263803680981595
+New York Islanders,False,Anders Lee,F,3.0,1.5414110429447851
+Los Angeles Kings,False,Quinton Byfield,F,3.0,2.331932773109244
+,False,Nick Schmaltz,F,,
+San Jose Sharks,False,Mikael Granlund,F,2.0,2.5
+Colorado Avalanche,True,Artturi Lehkonen,F,3.0,0.0
+Nashville Predators,False,Gustav Nyquist,F,2.0,1.3500699538435388
+,True,Nick Bjugstad,F,,0.0
+Boston Bruins,False,Jake DeBrusk,F,4.0,2.0566318926974665
+Vancouver Canucks,True,Brock Boeser,F,2.0,0.0
+,False,Matias Maccelli,F,,
+Boston Bruins,False,Justin Brazeau,F,4.0,1.6691505216095381
+Ottawa Senators,False,Tim Stützle,F,3.0,2.604048960851344
+Philadelphia Flyers,False,Joel Farabee,F,2.0,1.4372469635627532
+St. Louis Blues,False,Kevin Hayes,F,3.0,1.8812709030100336
+Boston Bruins,False,Pavel Zacha,F,4.0,2.414307004470939
+Montreal Canadiens,False,Joel Armia,F,4.0,2.45714845773652
+Los Angeles Kings,False,Anze Kopitar,F,3.0,2.6155462184873954
+Columbus Blue Jackets,False,Alexander Nylander,F,2.0,1.1503067484662577
+,False,Logan Cooley,F,,
+Montreal Canadiens,False,Nick Suzuki,F,4.0,3.264978087677294
+,False,Josh Doan,F,,
+Toronto Maple Leafs,False,Mitch Marner,F,3.0,2.5650826679935763
+Ottawa Senators,False,Claude Giroux,F,3.0,2.604048960851344
+Ottawa Senators,False,Mathieu Joseph,F,3.0,1.9172668173301104
+Seattle Kraken,False,Jordan Eberle,F,3.0,1.8433287023742073
+Edmonton Oilers,False,Evander Kane,F,3.0,2.034412955465587
+Vegas Golden Knights,False,Tomas Hertl,F,3.0,2.8749999999999996
+Boston Bruins,False,Brad Marchand,F,4.0,2.1460506706408347
+Calgary Flames,True,Martin Pospisil,F,3.0,0.0
+Colorado Avalanche,False,Cale Makar,D,3.0,2.4349270692885536
+Florida Panthers,False,Eetu Luostarinen,F,4.0,1.9548872180451127
+Pittsburgh Penguins,False,Erik Karlsson,D,4.0,3.3467688052581694
+Dallas Stars,False,Matt Duchene,F,3.0,1.9871571440062203
+Carolina Hurricanes,False,Teuvo Teravainen,F,2.0,1.137123745819398
+Buffalo Sabres,False,Jack Quinn,F,2.0,0.9090909090909091
+Vegas Golden Knights,False,William Karlsson,F,3.0,2.833333333333333
+New Jersey Devils,False,Dawson Mercer,F,3.0,2.0270270270270268
+Winnipeg Jets,False,Sean Monahan,F,3.0,1.9485447294803877
+Nashville Predators,False,Ryan O'Reilly,F,2.0,1.3663358569018946
+Nashville Predators,False,Roman Josi,D,2.0,1.5452607905438094
+Dallas Stars,False,Joe Pavelski,F,3.0,1.904358929672628
+Columbus Blue Jackets,False,Alexandre Texier,F,2.0,1.0429447852760736
+Columbus Blue Jackets,False,Zach Werenski,D,2.0,1.4263803680981595
+Florida Panthers,False,Vladimir Tarasenko,F,4.0,1.8345864661654134
+,False,Lawson Crouse,F,,
+Montreal Canadiens,False,Alex Newhook,F,4.0,2.3561697539939233
+Philadelphia Flyers,False,Scott Laughton,F,2.0,1.2145748987854252
+Nashville Predators,False,Cody Glass,F,2.0,1.024751892676421
+Toronto Maple Leafs,False,Max Domi,F,3.0,2.0695553344039084
+Toronto Maple Leafs,False,Nicholas Robertson,F,3.0,1.6031766674959853
+San Jose Sharks,False,William Eklund,F,2.0,1.7777777777777777
+Toronto Maple Leafs,True,Bobby McMann,F,3.0,0.0
+Buffalo Sabres,False,Jeff Skinner,F,2.0,0.9687034277198212
+Washington Capitals,False,Max Pacioretty,F,1.0,0.5870445344129556
+Tampa Bay Lightning,False,Anthony Cirelli,F,2.0,0.9748892171344165
+Seattle Kraken,False,Oliver Bjorkstrand,F,3.0,1.5522768019993325
+Florida Panthers,False,Anton Lundell,F,4.0,1.8646616541353382
+Pittsburgh Penguins,False,Rickard Rakell,F,4.0,2.051245396771136
+Philadelphia Flyers,False,Ryan Poehling,F,2.0,1.194331983805668
+Calgary Flames,False,Connor Zary,F,3.0,1.5848163799773822
+Florida Panthers,False,Sam Bennett,F,4.0,1.9849624060150375
+Vancouver Canucks,False,Elias Lindholm,F,2.0,1.2641509433962264
+Seattle Kraken,False,Yanni Gourde,F,3.0,1.358242201749416
+Chicago Blackhawks,False,Nick Foligno,F,3.0,1.3485804416403786
+Ottawa Senators,False,Ridly Greig,F,3.0,1.802803126743238
+Seattle Kraken,False,Matty Beniers,F,3.0,1.6007854520618117
+Detroit Red Wings,False,J.T. Compher,F,3.0,1.4621408833198342
+Seattle Kraken,False,Jaden Schwartz,F,3.0,1.6735484271555303
+Nashville Predators,False,Anthony Beauvillier,F,2.0,0.894624668209574
+Ottawa Senators,False,Angus Crookshank,F,3.0,1.5452598229227754
+Vegas Golden Knights,False,Pavel Dorofeyev,F,3.0,2.4583333333333335
+Carolina Hurricanes,False,Jordan Martinook,F,2.0,0.9698996655518395
+Columbus Blue Jackets,False,Dmitri Voronkov,F,2.0,0.9049079754601226
+Pittsburgh Penguins,False,Reilly Smith,F,4.0,2.3391394875460323
+Washington Capitals,False,Connor McMichael,F,1.0,0.6376518218623481
+San Jose Sharks,False,Thomas Bordeleau,F,2.0,1.6388888888888888
+New York Islanders,False,Casey Cizikas,F,3.0,1.2883435582822087
+Washington Capitals,False,John Carlson,D,1.0,0.9008097165991903
+Washington Capitals,False,Aliaksei Protas,F,1.0,0.597165991902834
+Philadelphia Flyers,False,Olle Lycksell,F,2.0,1.0121457489878543
+Minnesota Wild,False,Marcus Johansson,F,3.0,1.5815720086643297
+Buffalo Sabres,False,Rasmus Dahlin,D,2.0,1.0283159463487332
+Nashville Predators,False,Jason Zucker,F,2.0,0.8946246682095738
+Pittsburgh Penguins,False,Lars Eller,F,4.0,2.051245396771136
+Vegas Golden Knights,False,Ivan Barbashev,F,3.0,2.541666666666666
+Winnipeg Jets,False,Josh Morrissey,D,3.0,2.208350693411106
+Vancouver Canucks,False,Quinn Hughes,D,2.0,1.5660377358490563
+Colorado Avalanche,False,Casey Mittelstadt,F,3.0,1.6147411091071462
+Carolina Hurricanes,False,Brady Skjei,D,2.0,1.3043478260869565
+Nashville Predators,False,Tommy Novak,F,2.0,0.9434223773846415
+San Jose Sharks,False,Luke Kunin,F,2.0,1.5277777777777777
+New York Islanders,False,Pierre Engvall,F,3.0,1.2653374233128836
+Chicago Blackhawks,False,Tyler Johnson,F,3.0,1.3012618296529967
+Edmonton Oilers,False,Evan Bouchard,D,3.0,2.884615384615385
+Chicago Blackhawks,False,Philipp Kurashev,F,3.0,1.4432176656151419
+Boston Bruins,False,Danton Heinen,F,4.0,1.520119225037258
+Chicago Blackhawks,False,Jason Dickinson,F,3.0,1.3012618296529967
+Dallas Stars,False,Logan Stankoven,F,3.0,1.5179672627825296
+Calgary Flames,False,Rasmus Andersson,D,3.0,1.7926611511219568
+New York Rangers,False,Adam Fox,D,3.0,2.0884795409935073
+Los Angeles Kings,False,Phillip Danault,F,3.0,1.7647058823529411
+Winnipeg Jets,False,Mason Appleton,F,3.0,1.2470686268674482
+Montreal Canadiens,False,Brendan Gallagher,F,4.0,1.6156592598815473
+Florida Panthers,False,Evan Rodrigues,F,4.0,1.5338345864661653
+Tampa Bay Lightning,False,Anthony Duclair,F,2.0,0.7385524372230428
+St. Louis Blues,False,Zack Bolduc,F,3.0,1.3043478260869565
+New Jersey Devils,False,Ondrej Palat,F,3.0,1.2972972972972974
+Vancouver Canucks,False,Dakota Joshua,F,2.0,1.0188679245283019
+Nashville Predators,False,Michael McCarron,F,2.0,0.7807633468010826
+Winnipeg Jets,False,Cole Perfetti,F,3.0,1.3769716088328074
+Columbus Blue Jackets,True,Boone Jenner,F,2.0,0.0
+Vegas Golden Knights,False,Noah Hanifin,D,3.0,2.8333333333333335
+Tampa Bay Lightning,False,Victor Hedman,D,2.0,1.1521418020679466
+Washington Capitals,False,T.J. Oshie,F,1.0,0.5566801619433198
+Calgary Flames,False,Andrew Mangiapane,F,3.0,1.2990298196535919
+New York Islanders,False,Jean-Gabriel Pageau,F,3.0,1.0812883435582823
+Dallas Stars,False,Craig Smith,F,3.0,1.1591750006702952
+Calgary Flames,False,MacKenzie Weegar,D,3.0,1.8186417475150287
+Dallas Stars,False,Miro Heiskanen,D,3.0,1.931958334450492
+Vegas Golden Knights,False,Michael Amadio,F,3.0,2.0833333333333335
+,False,Alex Kerfoot,F,,
+Boston Bruins,False,Charlie Coyle,F,4.0,1.4903129657228018
+Chicago Blackhawks,False,Seth Jones,D,3.0,1.585173501577287
+Vancouver Canucks,False,Nils Hoglander,F,2.0,0.8867924528301887
+St. Louis Blues,True,Torey Krug,D,3.0,0.0
+Edmonton Oilers,False,Corey Perry,F,3.0,1.3663967611336032
+Toronto Maple Leafs,False,Noah Gregor,F,3.0,1.1076493339063171
+New Jersey Devils,False,Luke Hughes,D,3.0,1.8648648648648645
+Philadelphia Flyers,False,Cam York,D,2.0,1.3157894736842106
+Buffalo Sabres,False,Zach Benson,F,2.0,0.7004470938897169
+Philadelphia Flyers,False,Noah Cates,F,2.0,0.8704453441295547
+Edmonton Oilers,False,Mattias Ekholm,D,3.0,1.9736842105263157
+Colorado Avalanche,False,Ross Colton,F,3.0,1.0764940727380974
+Florida Panthers,False,Brandon Montour,D,4.0,1.9849624060150375
+Edmonton Oilers,False,Darnell Nurse,D,3.0,1.548582995951417
+New York Rangers,False,Kaapo Kakko,F,3.0,1.2091197342593991
+Colorado Avalanche,False,Sean Walker,D,3.0,1.1790173177607732
+Los Angeles Kings,False,Pierre-Luc Dubois,F,3.0,1.5441176470588238
+Boston Bruins,False,Charlie McAvoy,D,4.0,1.8479880774962743
+Montreal Canadiens,False,Mike Matheson,D,4.0,2.423488889822321
+New York Islanders,False,Simon Holmstrom,F,3.0,1.0582822085889572
+,False,Sean Durzi,D,,
+Seattle Kraken,False,Justin Schultz,D,3.0,1.188461926530739
+Detroit Red Wings,False,Moritz Seider,D,3.0,1.1140121015770164
+Boston Bruins,False,Morgan Geekie,F,4.0,1.3710879284649775
+Anaheim Ducks,True,Mason McTavish,F,2.0,0.0
+,False,Michael Carcone,F,,
+Vegas Golden Knights,False,Shea Theodore,D,3.0,2.541666666666666
+Carolina Hurricanes,False,Jaccob Slavin,D,2.0,1.0367892976588629
+Colorado Avalanche,False,Devon Toews,D,3.0,1.7172643541298218
+Edmonton Oilers,False,Adam Henrique,F,3.0,1.2449392712550607
+Seattle Kraken,False,Brandon Tanev,F,3.0,1.0429359763433015
+St. Louis Blues,False,Alexey Toropchenko,F,3.0,0.9531772575250836
+Nashville Predators,False,Kiefer Sherwood,F,2.0,0.6506361223342355
+Chicago Blackhawks,False,Ryan Donato,F,3.0,0.9936908517350157
+Colorado Avalanche,False,Josh Manson,D,3.0,1.2046481290164421
+San Jose Sharks,False,Filip Zadina,F,2.0,1.1388888888888888
+New York Rangers,False,Jonny Brodzinski,F,3.0,1.0717197644571945
+Vegas Golden Knights,False,Chandler Stephenson,F,3.0,2.2916666666666665
+Ottawa Senators,True,Mark Kastelic,F,3.0,0.0
+Washington Capitals,False,Sonny Milano,F,1.0,0.4352226720647773
+New York Rangers,False,Jack Roslovic,F,3.0,1.3190397101011624
+New York Rangers,False,Will Cuylle,F,3.0,0.9617997886154309
+New Jersey Devils,False,Tomas Nosek,F,3.0,1.243243243243243
+Vancouver Canucks,False,Pius Suter,F,2.0,0.7735849056603773
+Calgary Flames,False,Daniil Miromanov,D,3.0,1.4029522052258792
+St. Louis Blues,False,Colton Parayko,D,3.0,1.6304347826086958
+Boston Bruins,False,Hampus Lindholm,D,4.0,1.490312965722802
+Ottawa Senators,True,Thomas Chabot,D,3.0,0.0
+Nashville Predators,False,Mark Jankowski,F,2.0,0.6831679284509473
+Carolina Hurricanes,False,Jordan Staal,F,2.0,0.6187290969899666
+Pittsburgh Penguins,True,Kris Letang,D,4.0,0.0
+Nashville Predators,True,Cole Smith,F,2.0,0.0
+Ottawa Senators,False,Parker Kelly,F,3.0,1.1732528285154407
+Carolina Hurricanes,False,Dmitry Orlov,D,2.0,0.8026755852842808
+Montreal Canadiens,False,Jake Evans,F,4.0,1.413701852396354
+Edmonton Oilers,False,Connor Brown,F,3.0,1.123481781376518
+New York Islanders,False,Mike Reilly,D,3.0,1.219325153374233
+Los Angeles Kings,False,Akil Thomas,F,3.0,0.976890756302521
+Minnesota Wild,False,Frederick Gaudreau,F,3.0,0.9753027386763365
+,False,Liam O'Brien,F,,
+Minnesota Wild,False,Brock Faber,D,3.0,1.5815720086643297
+New York Rangers,False,Zac Jones,D,3.0,1.23659972821984
+Ottawa Senators,False,Dominik Kubalik,F,3.0,0.8870936020482599
+Toronto Maple Leafs,False,Matthew Knies,F,3.0,1.0493520005428267
+Seattle Kraken,False,Eeli Tolvanen,F,3.0,0.9459186762183432
+Ottawa Senators,False,Jake Sanderson,D,3.0,1.5738757455694934
+Boston Bruins,False,Trent Frederic,F,4.0,1.0432190760059612
+Philadelphia Flyers,False,Bobby Brink,F,2.0,0.6680161943319838
+Vegas Golden Knights,False,Anthony Mantha,F,3.0,1.4583333333333335
+Columbus Blue Jackets,False,Trey Fix-Wolansky,F,2.0,0.49079754601226994
+Buffalo Sabres,False,Tyson Jost,F,2.0,0.46199701937406856
+New York Islanders,False,Noah Dobson,D,3.0,0.8742331288343559
+Seattle Kraken,False,Tomas Tatar,F,3.0,0.848901376093385
+San Jose Sharks,False,Klim Kostin,F,2.0,1.1388888888888888
+Chicago Blackhawks,False,Lukas Reichel,F,3.0,0.8990536277602523
+Vegas Golden Knights,False,Ben Hutton,D,3.0,1.5
+Winnipeg Jets,False,Adam Lowry,F,3.0,0.9872626629367299
+Ottawa Senators,False,Jakob Chychrun,D,3.0,1.2304846738088768
+Tampa Bay Lightning,False,Michael Eyssimont,F,2.0,0.5022156573116691
+Philadelphia Flyers,False,Travis Sanheim,D,2.0,1.0121457489878543
+Montreal Canadiens,False,Josh Anderson,F,4.0,1.1444253090827627
+Los Angeles Kings,False,Alex Laferriere,F,3.0,0.8823529411764706
+Calgary Flames,False,Matt Coronato,F,3.0,0.9093208737575144
+Ottawa Senators,False,Boris Katchouk,F,3.0,0.8012458341081057
+Dallas Stars,False,Thomas Harley,D,3.0,1.2419732150038878
+New York Islanders,False,Ryan Pulock,D,3.0,1.1042944785276074
+Carolina Hurricanes,False,Brendan Lemieux,F,2.0,0.46822742474916385
+Chicago Blackhawks,False,Andreas Athanasiou,F,3.0,0.8517350157728705
+Los Angeles Kings,False,Vladislav Gavrikov,D,3.0,1.165966386554622
+Vegas Golden Knights,False,Nicolas Roy,F,3.0,1.6249999999999998
+Calgary Flames,False,Oliver Kylington,D,3.0,0.9353014701505862
+Pittsburgh Penguins,False,Jesse Puljujarvi,F,4.0,0.8996690336715509
+Seattle Kraken,False,Will Borgen,D,3.0,0.7276297509371871
+Colorado Avalanche,False,Yakov Trenin,F,3.0,0.7689243376700695
+Vancouver Canucks,False,Teddy Blueger,F,2.0,0.5849056603773584
+Buffalo Sabres,False,Victor Olofsson,F,2.0,0.4918032786885246
+Dallas Stars,False,Sam Steel,F,3.0,0.9383797624473817
+Buffalo Sabres,False,Owen Power,D,2.0,0.7898658718330849
+Columbus Blue Jackets,False,Damon Severson,D,2.0,0.7822085889570554
+Chicago Blackhawks,False,Landon Slaggert,F,3.0,0.7097791798107255
+St. Louis Blues,False,Kasperi Kapanen,F,3.0,0.8277591973244146
+Detroit Red Wings,False,Robby Fabbri,F,3.0,0.6962575634856354
+Carolina Hurricanes,False,Evgeny Kuznetsov,F,2.0,0.6354515050167224
+Columbus Blue Jackets,False,Mathieu Olivier,F,2.0,0.47546012269938653
+Los Angeles Kings,False,Drew Doughty,D,3.0,1.4495798319327733
+Pittsburgh Penguins,False,Valtteri Puustinen,F,4.0,1.043616079058999
+Vancouver Canucks,False,Nikita Zadorov,D,2.0,0.6603773584905659
+Edmonton Oilers,False,Cody Ceci,D,3.0,1.4271255060728745
+Colorado Avalanche,False,Zach Parise,F,3.0,0.7689243376700695
+Pittsburgh Penguins,False,Jeff Carter,F,4.0,1.043616079058999
+Seattle Kraken,False,Tye Kartye,F,3.0,0.8003927260309058
+Detroit Red Wings,False,Andrew Copp,F,3.0,0.8123004907332412
+New York Islanders,False,Hudson Fasching,F,3.0,0.6671779141104295
+Seattle Kraken,False,Kailer Yamamoto,F,3.0,0.8246470510621453
+Florida Panthers,False,Kevin Stenlund,F,4.0,0.9323308270676691
+Toronto Maple Leafs,False,Mark Giordano,D,3.0,0.9619060004975912
+Montreal Canadiens,False,Kaiden Guhle,D,4.0,1.0097870374259672
+Columbus Blue Jackets,False,Nick Blankenburg,D,2.0,0.4601226993865031
+Anaheim Ducks,False,Jakob Silfverberg,F,2.0,0.68561872909699
+New York Rangers,False,Braden Schneider,D,3.0,0.6869998490110222
+New York Rangers,False,Alex Wennberg,F,3.0,1.0167597765363128
+Chicago Blackhawks,False,Joey Anderson,F,3.0,0.8044164037854888
+Toronto Maple Leafs,False,David Kampf,F,3.0,1.0202033338610814
+Los Angeles Kings,False,Blake Lizotte,F,3.0,0.976890756302521
+Columbus Blue Jackets,False,Erik Gudbranson,D,2.0,0.5214723926380368
+Anaheim Ducks,False,Cam Fowler,D,2.0,0.7692307692307692
+Detroit Red Wings,False,Christian Fischer,F,3.0,0.6034232216875506
+Tampa Bay Lightning,False,Mitchell Chaffee,F,2.0,0.38404726735598227
+Florida Panthers,False,Nick Cousins,F,4.0,0.8421052631578947
+New York Rangers,False,Ryan Lindgren,D,3.0,0.8518798127736675
+Tampa Bay Lightning,False,Conor Sheary,F,2.0,0.4874446085672082
+Vancouver Canucks,False,Tyler Myers,D,2.0,0.5849056603773584
+Anaheim Ducks,True,Pavel Mintyukov,D,2.0,0.0
+Anaheim Ducks,False,Brett Leason,F,2.0,0.48494983277591974
+Detroit Red Wings,False,Daniel Sprong,F,3.0,0.649840392586593
+Toronto Maple Leafs,True,Connor Dewar,F,3.0,0.0
+Columbus Blue Jackets,False,James Malatesta,F,2.0,0.3834355828220859
+Washington Capitals,False,Nic Dowd,F,1.0,0.3744939271255061
+Los Angeles Kings,False,Trevor Lewis,F,3.0,0.7563025210084036
+Carolina Hurricanes,False,Jesperi Kotkaniemi,F,2.0,0.48494983277591974
+Edmonton Oilers,False,Sam Carrick,F,3.0,0.819838056680162
+Anaheim Ducks,False,Olen Zellweger,D,2.0,0.5016722408026756
+San Jose Sharks,False,Mario Ferraro,D,2.0,1.1666666666666667
+Winnipeg Jets,False,Alex Iafallo,F,3.0,0.6235343134337241
+Vegas Golden Knights,False,Brayden McNabb,D,3.0,1.2083333333333335
+Anaheim Ducks,False,Isac Lundestrom,F,2.0,0.45150501672240806
+New York Islanders,False,Kyle MacLean,F,3.0,0.5751533742331288
+New York Rangers,False,Barclay Goodrow,F,3.0,0.714479842971463
+Carolina Hurricanes,False,Jalen Chatfield,D,2.0,0.5016722408026756
+Vegas Golden Knights,False,Brett Howden,F,3.0,1.125
+Montreal Canadiens,False,Jesse Ylönen,F,4.0,0.7741700620265748
+New York Islanders,False,Cal Clutterbuck,F,3.0,0.4831288343558282
+Pittsburgh Penguins,False,Marcus Pettersson,D,4.0,1.1875631244464473
+Calgary Flames,True,Joel Hanley,D,3.0,0.0
+Buffalo Sabres,False,Zemgus Girgensons,F,2.0,0.31296572280178836
+Minnesota Wild,False,Mason Shaw,F,3.0,0.4744716025992989
+Los Angeles Kings,False,Matt Roy,D,3.0,0.9138655462184875
+Dallas Stars,False,Radek Faksa,F,3.0,0.7451839290023325
+Vegas Golden Knights,False,Keegan Kolesar,F,3.0,1.0
+Tampa Bay Lightning,True,Darren Raddysh,D,2.0,0.0
+San Jose Sharks,False,Kyle Burroughs,D,2.0,0.6666666666666666
+Toronto Maple Leafs,False,TJ Brodie,D,3.0,0.8744600004523556
+Columbus Blue Jackets,False,Brendan Gaunce,F,2.0,0.352760736196319
+Ottawa Senators,False,Artem Zub,D,3.0,0.7153980661679515
+Winnipeg Jets,True,Vladislav Namestnikov,F,3.0,0.0
+Montreal Canadiens,False,Justin Barron,D,4.0,0.7741700620265748
+,False,Jack McBain,F,,
+Vancouver Canucks,False,Sam Lafferty,F,2.0,0.43396226415094336
+New Jersey Devils,False,Alexander Holtz,F,3.0,0.6486486486486485
+Toronto Maple Leafs,False,Pontus Holmberg,F,3.0,0.6704193336801393
+Pittsburgh Penguins,True,Emil Bemstrom,F,4.0,0.0
+Chicago Blackhawks,False,Kevin Korchinski,D,3.0,0.7570977917981073
+Washington Capitals,False,Martin Fehervary,D,1.0,0.2732793522267207
+Vancouver Canucks,False,Nils Aman,F,2.0,0.32075471698113206
+Montreal Canadiens,False,Rafael Harvey-Pinard,F,4.0,0.706850926198177
+Minnesota Wild,False,Vinni Lettieri,F,3.0,0.4217525356438212
+Montreal Canadiens,False,Christian Dvorak,F,4.0,1.0097870374259672
+Seattle Kraken,False,Brian Dumoulin,D,3.0,0.7276297509371872
+Minnesota Wild,False,Declan Chisholm,D,3.0,0.6326288034657319
+Seattle Kraken,False,Ryker Evans,D,3.0,0.7033754259059475
+Florida Panthers,False,Dmitry Kulikov,D,4.0,0.6015037593984962
+Pittsburgh Penguins,False,Pierre-Olivier Joseph,D,4.0,1.1155896017527231
+Boston Bruins,False,John Beecher,F,4.0,0.5663189269746647
+Boston Bruins,False,Kevin Shattenkirk,D,4.0,0.5365126676602087
+Detroit Red Wings,False,Jeff Petry,D,3.0,0.4409631235409024
+,False,Josh Brown,D,,
+New York Islanders,False,Matt Martin,F,3.0,0.43711656441717794
+Winnipeg Jets,False,David Gustafsson,F,3.0,0.5196119278614368
+Winnipeg Jets,True,Morgan Barron,F,3.0,0.0
+Minnesota Wild,False,Jacob Lucchini,F,3.0,0.5271906695547766
+Washington Capitals,False,Michael Sgarbossa,F,1.0,0.19230769230769232
+Columbus Blue Jackets,False,Carson Meyer,F,2.0,0.29141104294478526
+Colorado Avalanche,False,Brandon Duhaime,F,3.0,0.5126162251133797
+San Jose Sharks,True,Jan Rutta,D,2.0,0.0
+Toronto Maple Leafs,False,Jake McCabe,D,3.0,0.6412706669983941
+Calgary Flames,False,Kevin Rooney,F,3.0,0.49363133146836496
+New Jersey Devils,False,Brendan Smith,D,3.0,0.6216216216216216
+Nashville Predators,False,Spencer Stastney,D,2.0,0.4066475764588972
+Minnesota Wild,False,Marat Khusnutdinov,F,3.0,0.6326288034657319
+New Jersey Devils,False,Chris Tierney,F,3.0,0.4864864864864865
+Winnipeg Jets,False,Brenden Dillon,D,3.0,0.44167013868222127
+Philadelphia Flyers,False,Adam Ginning,D,2.0,0.32388663967611336
+Calgary Flames,False,Brayden Pachal,D,3.0,0.44167013868222127
+Anaheim Ducks,False,Jackson LaCombe,D,2.0,0.5016722408026756
+Los Angeles Kings,False,Mikey Anderson,D,3.0,0.6302521008403361
+Philadelphia Flyers,False,Erik Johnson,D,2.0,0.30364372469635625
+San Jose Sharks,False,Henry Thrun,D,2.0,0.7777777777777778
+Winnipeg Jets,False,Dylan DeMelo,D,3.0,0.5196119278614367
+Montreal Canadiens,False,Jordan Harris,D,4.0,0.8414891978549726
+Toronto Maple Leafs,False,Ryan Reaves,F,3.0,0.46637866690792296
+Los Angeles Kings,False,Jordan Spence,D,3.0,0.5987394957983193
+Tampa Bay Lightning,False,Tanner Jeannot,F,2.0,0.22156573116691286
+Boston Bruins,False,Jesper Boqvist,F,4.0,0.6259314456035767
+St. Louis Blues,False,Nathan Walker,F,3.0,0.37625418060200666
+Minnesota Wild,False,Jon Merrill,D,3.0,0.4481120691215601
+,False,J.J. Moser,D,,
+Buffalo Sabres,False,Peyton Krebs,F,2.0,0.29806259314456035
+Detroit Red Wings,False,Joe Veleno,F,3.0,0.3481287817428177
+San Jose Sharks,False,Jacob MacDonald,D,2.0,0.5277777777777777
+Anaheim Ducks,False,Ross Johnston,F,2.0,0.2508361204013378
+Ottawa Senators,False,Jiri Smejkal,F,3.0,0.4292388397007709
+Chicago Blackhawks,False,MacKenzie Entwistle,F,3.0,0.44952681388012616
+Pittsburgh Penguins,False,Ryan Shea,D,4.0,0.6477617042435166
+St. Louis Blues,False,Matthew Kessel,D,3.0,0.5016722408026756
+Tampa Bay Lightning,False,Luke Glendening,F,2.0,0.20679468242245197
+New Jersey Devils,False,Max Willman,F,3.0,0.3513513513513513
+Detroit Red Wings,False,Simon Edvinsson,D,3.0,0.3713373671923389
+Tampa Bay Lightning,False,Erik Cernak,D,2.0,0.3101920236336779
+Buffalo Sabres,False,Connor Clifton,D,2.0,0.22354694485842028
+New Jersey Devils,True,Curtis Lazar,F,3.0,0.0
