@@ -1,5 +1,6 @@
 import requests
 import pandas as pd
+import numpy as np
 from config import FROM_SEASON, THRU_SEASON
 
 def get_nst_player_data(date):
@@ -43,6 +44,10 @@ def get_nst_player_data(date):
 
             numeric_cols = df.columns.drop(['Player','Team','Position'])
             df[numeric_cols] = df[numeric_cols].apply(pd.to_numeric, errors='coerce')
+
+            # Replace infinite values with NaN
+            df[numeric_cols] = df[numeric_cols].replace([np.inf, -np.inf], np.nan)
+
             # Add the date to the dataframe
             df['Date'] = date
 
