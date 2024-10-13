@@ -1,13 +1,12 @@
 import requests
 import pandas as pd
 import numpy as np
-from config import FROM_SEASON, THRU_SEASON
 
 def get_nst_player_data(date):
     base_url = 'https://naturalstattrick.com/playerteams.php'
     params = {
-        'fromseason':FROM_SEASON,
-        'thruseason':THRU_SEASON,
+        'fromseason':'20242025',
+        'thruseason':'20242025',
         'stype':'2', # Regular season
         'sit':'all',
         'score':'all',
@@ -31,6 +30,7 @@ def get_nst_player_data(date):
     }
 
     response = requests.get(base_url,params=params, headers=headers)
+
     response.raise_for_status()
 
     tables = pd.read_html(response.content)
