@@ -1,7 +1,7 @@
 from dotenv import load_dotenv
 import os
 
-load_dotenv(".env",override=True)
+load_dotenv()
 
 DB_HOST = os.environ.get('DB_HOST')
 DB_NAME = os.environ.get('DB_NAME')
